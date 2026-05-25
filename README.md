@@ -1,23 +1,16 @@
-<h1 align="center">Hai wa jiao raf</h1>
+<h1 align="center">Hi, 我叫 Raf 👋</h1>
 <h3 align="center">AI Enthusiast | Software Developer | AR Developer</h3>
 
 <p align="center">
   <a href="https://otterqun.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Lihat_Portfolio_Saya-005571?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View_My_Portfolio-005571?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
-
-### 👨‍💻 Tentang Saya
-- 🎓 Lulusan **Bachelor of Information Systems (Hons.) Intelligent Systems Engineering** dari UiTM Shah Alam.
-- 💼 Berpengalaman sebagai **AI & Software Development Intern**, dengan fokus pada pengembangan model cerdas, sistem IoT, dan aplikasi *Augmented Reality* (AR).
-- 🌱 Saat ini sangat tertarik dengan **Computer Vision (CNN)**, pengembangan Backend (Flask/Node.js), dan integrasi WebAR.
-- 🎯 Memiliki minat besar untuk memecahkan masalah dunia nyata melalui teknologi yang interaktif dan sistem yang terotomatisasi.
-
 ### 🛠️ Tech Stack & Skills
 
-**Bahasa Pemrograman:**
+**Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -37,30 +30,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### 🚀 Proyek Pilihan
+### 🚀 Featured Projects
 
-- 👓 **[Face Shape-Based Virtual Eyewear Try-On System](https://otterqun.github.io/portfolio/)** Sistem cerdas berbasis web yang mengklasifikasikan bentuk wajah pengguna menggunakan model CNN untuk merekomendasikan kacamata yang sesuai. Backend menggunakan Flask yang diintegrasikan dengan frontend WebAR untuk pengalaman *try-on* secara *real-time*.
+- 👓 **[Face Shape-Based Virtual Eyewear Try-On System](https://otterqun.github.io/portfolio/)** An intelligent web-based system that classifies users' face shapes using a CNN model to recommend suitable eyewear styles. Integrated a Flask backend with a WebAR frontend for a real-time augmented reality try-on experience.
   
-- 🌊 **Smart Flood Alert IoT System** Sistem pemantauan sensor lingkungan (IoT) menggunakan Arduino. Menampilkan data secara *real-time* melalui dashboard web dan mengintegrasikan API Mailgun untuk peringatan dini (email otomatis) saat terdeteksi indikasi banjir.
+- 🌊 **Smart Flood Alert IoT System** An IoT environmental sensor monitoring system using Arduino. Displays real-time data via a web dashboard and integrates the Mailgun API for early flood warnings (automated email alerts) when flood indications are detected.
 
-- 🚗 **Car Engine AR Visualization** *(Internship Project)* Aplikasi edukasi Augmented Reality yang dikembangkan menggunakan Unity dan Vuforia. Mengimplementasikan *model target tracking* untuk memvisualisasikan komponen mesin mobil secara interaktif.
-
-### 💼 Pengalaman Kerja
-- **AI & Software Development Intern** @ Jom Mahir SDN BHD *(Mar 2026 - Jul 2026)*
-- **Software Development Intern** @ ZNN Technology Centre SDN BHD *(Sep 2023 - Feb 2024)*
-
-### 🏆 Sertifikasi
-- **5G Pioneers Program** - Ericsson *(Okt 2025)*
-- **Networking Academy Learn-A-Thon** - Cisco *(Jun 2025)*
-- **Introduction to IoT** - Cisco *(Mei 2025)*
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otterqun&show_icons=true&theme=tokyonight" alt="otterqun's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otterqun&theme=tokyonight" alt="otterqun's Streak" width="49%" />
-</p>
+- 🚗 **Car Engine AR Visualization** *(Internship Project)* An educational Augmented Reality application developed using Unity and Vuforia. Implemented model target tracking to visualize car engine components interactively.
 
 ---
 <p align="center">
-  <i>Terima kasih sudah mampir! Jangan ragu untuk menghubungi saya melalui <a href="https://otterqun.github.io/portfolio/">Portofolio</a>. Let's build something awesome together! 🚀</i>
+  <i>Thanks for dropping by! Feel free to reach out to me through my <a href="https://otterqun.github.io/portfolio/">Portfolio</a>. Let's build something awesome together! 🚀</i>
 </p>
