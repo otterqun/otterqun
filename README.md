@@ -45,7 +45,7 @@
   
 - 🌊 **Smart Flood Alert IoT System** An IoT environmental sensor monitoring system using Arduino. Displays real-time data via a web dashboard and integrates the Mailgun API for early flood warnings (automated email alerts) when flood indications are detected.
 
-- 🚗 **Car Engine AR Visualization** *(Internship Project)* An educational Augmented Reality application developed using Unity and Vuforia. Implemented model target tracking to visualize car engine components interactively.
+- 🚗 **Car Engine AR Visualization** An educational Augmented Reality application developed using Unity and Vuforia. Implemented model target tracking to visualize car engine components interactively.
 
 ---
 <p align="center">
